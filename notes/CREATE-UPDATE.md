@@ -1,7 +1,7 @@
 # CREATE
 `CREATE DATABASE DatabaseName` creates a new database  
 
-```SQL
+```sql
 CREATE TABLE [IF NOT EXISTS] TableName  (
     Column1 DATA_TYPE,
     Column2 DATA_TYPE,
